@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - World]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - World</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 30 Oct 2018 13:48:59 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Niels Högel: German ex-nurse admits killing 100 patients]]></title>
+            <description><![CDATA[Niels Högel administered fatal doses of medication at two northern hospitals, prosecutors say.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-46027355</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-46027355</guid>
+            <pubDate>Tue, 30 Oct 2018 12:48:58 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/EA5F/production/_104099995_mediaitem104099993.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WWF report: Mass wildlife loss caused by human consumption]]></title>
+            <description><![CDATA[A WWF report blames "exploding consumption" for average losses of 60% among vertebrates since 1970.]]></description>
+            <link>https://www.bbc.co.uk/news/science-environment-46028862</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/science-environment-46028862</guid>
+            <pubDate>Tue, 30 Oct 2018 09:10:37 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/81F5/production/_104096233_017859289-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pittsburgh shooting: Anger at Pence rally 'Jesus prayer']]></title>
+            <description><![CDATA[Rabbi Loren Jacobs led prayers in the name of "Jesus the Messiah" at a Republican campaign rally.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-46029972</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-46029972</guid>
+            <pubDate>Tue, 30 Oct 2018 13:21:40 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/C20F/production/_104097694_6b9f8f3d-2518-4a87-a3b1-d9fca7df4348.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Italy's economy stalls as eurozone slows down]]></title>
+            <description><![CDATA[Italy's economy stalls as growth in the 19-country eurozone slows to just 0.2% in the third quarter.]]></description>
+            <link>https://www.bbc.co.uk/news/business-46028714</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-46028714</guid>
+            <pubDate>Tue, 30 Oct 2018 13:24:26 GMT</pubDate>
+            <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/31FF/production/_104099721_az2ep9ud.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lion Air crash: Sonar and drones used in Indonesian search]]></title>
+            <description><![CDATA[Lion Air flight JT 610, carrying 189 people, plunged into the Java Sea shortly after taking off.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-46027492</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-46027492</guid>
+            <pubDate>Tue, 30 Oct 2018 11:11:57 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/574D/production/_104094322_hi050281739.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Garden Route wildfire: Seven killed in George, South Africa]]></title>
+            <description><![CDATA[A pregnant woman, two toddlers, and a baby are among the fatalities along the popular Garden Route.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-46029553</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-46029553</guid>
+            <pubDate>Tue, 30 Oct 2018 11:58:40 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/E915/production/_104096695_firesa.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Venice under water as deadly storms hit Italy]]></title>
+            <description><![CDATA[Ten people are confirmed killed as storms and floods hit the west and north of Italy.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-46029302</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-46029302</guid>
+            <pubDate>Tue, 30 Oct 2018 13:17:38 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/FDE8/production/_104100056_gettyimages-1055480364.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US sending 5,200 troops to border with Mexico]]></title>
+            <description><![CDATA[President Trump has described the thousands of migrants headed for the US as an "invasion".]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-46026050</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-46026050</guid>
+            <pubDate>Tue, 30 Oct 2018 07:14:34 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/64E5/production/_104092852_hi050277112.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Filipina women detained at Halloween party in Saudi Arabia]]></title>
+            <description><![CDATA[The Philippines confirms 17 women were arrested in a raid on a compound in Riyadh on Friday.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-46029982</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-46029982</guid>
+            <pubDate>Tue, 30 Oct 2018 10:23:56 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1467B/production/_104097538_0d6a9f92-2971-4421-9675-be3c84bd0c23.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Julian Assange: Ecuador court rejects lawsuit over embassy rules]]></title>
+            <description><![CDATA[The WikiLeaks co-founder had contested new rules imposed on him in the country's embassy in London.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-46027963</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-46027963</guid>
+            <pubDate>Tue, 30 Oct 2018 05:20:17 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/AE05/production/_104094544_050276655.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tokyo ticket seller's foreigner fear costs garden thousands]]></title>
+            <description><![CDATA[The man gave away tickets to foreigners after developing a fear of asking them for money.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-46030622</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-46030622</guid>
+            <pubDate>Tue, 30 Oct 2018 13:08:10 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/74CC/production/_104100992_shinjukugyoennationalgarden-2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Porn-loving US official spreads malware to government network]]></title>
+            <description><![CDATA[The employee at the US Geological Survey had an "extensive history" of visiting adult websites.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-46030242</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-46030242</guid>
+            <pubDate>Tue, 30 Oct 2018 11:02:01 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/CC9B/production/_104097325_gettyimages-618935996.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[US mail bombs: Who is George Soros?]]></title>
+            <description><![CDATA[The billionaire financier and philanthropist was targeted in a US mail-bombing campaign.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-44392441</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-44392441</guid>
+            <pubDate>Tue, 30 Oct 2018 13:34:51 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/C25F/production/_104095794_soroscompo.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Global hunger for soybeans 'destroying Brazil's Cerrado savanna']]></title>
+            <description><![CDATA[Brazil's highly biodiverse Cerrado is being destroyed for soybean production, conservationists say.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-46022184</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-46022184</guid>
+            <pubDate>Tue, 30 Oct 2018 09:26:04 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/185AF/production/_104095799_p06q86pg.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jamal Khashoggi's fiancee on writer's death in Saudi consulate]]></title>
+            <description><![CDATA[Hatice Cengiz was set to marry the journalist before he was killed in the Saudi consulate in Istanbul.]]></description>
+            <link>https://www.bbc.co.uk/news/46026079</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/46026079</guid>
+            <pubDate>Mon, 29 Oct 2018 19:21:36 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/37F9/production/_104092341_p06q6z1n.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Japan’s Princess Ayako surrenders her royal title]]></title>
+            <description><![CDATA[Her marriage to a commoner means that she must give up her title, under Imperial House rules.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-46026910</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-46026910</guid>
+            <pubDate>Mon, 29 Oct 2018 22:35:12 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/E63B/production/_104093985_c2666cad-72e3-4db6-aba3-04c9a1b197fb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[A mother reacts to reuniting with her missing son]]></title>
+            <description><![CDATA[Lyneth Mann-Lewis was been reunited with her son, 31 years after he was abducted.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-46026414</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-46026414</guid>
+            <pubDate>Mon, 29 Oct 2018 23:21:22 GMT</pubDate>
+            <media:thumbnail width="1024" height="575" url="http://c.files.bbci.co.uk/12B55/production/_104092667_p06q77wt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cerebral palsy superhero creator: I decided representation matters]]></title>
+            <description><![CDATA[Farida Bedwei wanted a comic book character that represented people like her - so she created one.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-45998421</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-45998421</guid>
+            <pubDate>Tue, 30 Oct 2018 00:26:14 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/FDBD/production/_104075946_p06q63qg.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Linda Liukas, Hello Ruby and the magic of coding]]></title>
+            <description><![CDATA[Linda Liukas wants to show children that writing code for computers can be magical.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-45987987</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-45987987</guid>
+            <pubDate>Tue, 30 Oct 2018 00:08:16 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/04C1/production/_104071210_p06q4zy5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stray cats housed in washing machines in Portuguese town]]></title>
+            <description><![CDATA[A vet in Portugal is using washing machines to house stray cats in her home town.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-news-from-elsewhere-46031042</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-news-from-elsewhere-46031042</guid>
+            <pubDate>Tue, 30 Oct 2018 13:48:43 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/7918/production/_104100013_cat3.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Soviet monument gets Bulgarian guard]]></title>
+            <description><![CDATA[Bulgarian police will protect a Soviet Army monument from graffiti artists.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-news-from-elsewhere-46021457</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-news-from-elsewhere-46021457</guid>
+            <pubDate>Mon, 29 Oct 2018 18:05:10 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/BB89/production/_104090084_sofiasuper.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Uzbek deputy PM sacked in ditch row]]></title>
+            <description><![CDATA[Uzbek deputy PM sacked for making farmers stand in an irrigation ditch.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-news-from-elsewhere-46019602</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-news-from-elsewhere-46019602</guid>
+            <pubDate>Mon, 29 Oct 2018 14:10:02 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/227B/production/_104072880_uzbek.png"/>
+        </item>
+        <item>
+            <title><![CDATA[North and South Korea: The football game that kicked off peace]]></title>
+            <description><![CDATA[How a friendly chat on the sidelines opened the door for North and South Korea to start talking.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-46027494</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-46027494</guid>
+            <pubDate>Tue, 30 Oct 2018 06:59:46 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/C511/production/_104094405_hi050267889.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brazil economy: Can Bolsonaro ride the 'Bullsonaro wave'?]]></title>
+            <description><![CDATA[Businesses and markets are embracing Jair Bolsonaro; but his policies are vague and untested.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-46024533</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-46024533</guid>
+            <pubDate>Tue, 30 Oct 2018 00:22:05 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/E249/production/_104092975_mediaitem104092971.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Deep South woman vying to make history]]></title>
+            <description><![CDATA[Georgia’s battle for the governor’s mansion reflects changing US demographics - and the women behind it.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-46023309</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-46023309</guid>
+            <pubDate>Mon, 29 Oct 2018 23:25:43 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/DF97/production/_104093275_gettyimages-1052872562.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['I never knew men could get breast cancer']]></title>
+            <description><![CDATA[Moses Musonga, a 67-year-old Kenyan, got a shock when he was diagnosed with the disease.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-45889886</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-45889886</guid>
+            <pubDate>Tue, 30 Oct 2018 00:15:11 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/20DE/production/_104041480_p06pyqnm.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[As a Pittsburgh Jewish community reeled, its teenagers mobilised]]></title>
+            <description><![CDATA[Teenagers who live in the Pittsburgh community reeling from a synagogue attack reflect and demand change.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-46012740</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-46012740</guid>
+            <pubDate>Mon, 29 Oct 2018 15:44:42 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/3731/production/_104092141_hi050238285.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lion Air crash: Indian pilot and husband of mystery pair among victims]]></title>
+            <description><![CDATA[As we learn who was on board, many focus on a poignant image in the debris of a couple on a bridge.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-46015249</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-46015249</guid>
+            <pubDate>Tue, 30 Oct 2018 11:34:05 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/AD65/production/_104098344_61ab6e2a-c258-4e7a-a5f2-3b683db2d32a.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Angela Merkel: A career in pictures]]></title>
+            <description><![CDATA[As the German chancellor announces she is stepping down, take a look back at the photos documenting her career.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-46022660</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-46022660</guid>
+            <pubDate>Mon, 29 Oct 2018 20:19:20 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/A685/production/_104092624_merkelobama.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The mega-dam being crowdfunded by Pakistan's top judge]]></title>
+            <description><![CDATA[Pakistan is hoping to collect about $17bn to build the controversial Diamer Bhasha dam.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-45968574</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-45968574</guid>
+            <pubDate>Tue, 30 Oct 2018 00:54:48 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/DE6F/production/_104034965_damsite976.gif"/>
+        </item>
+    </channel>
+</rss>
